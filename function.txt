@@ -1,2 +1,12 @@
+
 This is a representation of an unfinished function a group member is working on
 This is a new change from <first last>
+
+
+“ This is a representation of an unfinished function a group member is working on.”
+“This is a new change from owen sailer” 
+
+“This is a representation of an unfinished function a group member is working on. ”
+"This is a new change from Jared Klevgard"
+
+
